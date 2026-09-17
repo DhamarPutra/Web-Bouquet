@@ -1,3 +1,3 @@
-WIB: Thursday, 17 September 2026 05.02.16 UTC
-WITA: Thursday, 17 September 2026 06.02.16 UTC
-WIT: Thursday, 17 September 2026 07.02.16 UTC
+WIB: Thursday, 17 September 2026 08.17.02 UTC
+WITA: Thursday, 17 September 2026 09.17.02 UTC
+WIT: Thursday, 17 September 2026 10.17.02 UTC
